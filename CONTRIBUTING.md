@@ -7,7 +7,7 @@ transparent as possible.
 
 We actively welcome your pull requests.
 
-1. Fork the repo and create your branch from `master`.
+1. Fork the repo and create your branch from `master` / `main`.
 2. If you've added code that should be tested, add tests.
 3. One pull request per feature. If you want to do more than one thing, send multiple pull requests.
 4. If you've changed APIs, update the documentation.
