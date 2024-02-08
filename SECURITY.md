@@ -6,7 +6,7 @@ We take the security of our software projects and services seriously, which incl
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-If you prefer to submit without logging in, send an email to [contact@jpbm.dev](mailto:contact@jpbm.dev).
+If you want to report a vulnerability, please send an email to [contact@jpbm.dev](mailto:contact@jpbm.dev).
 
 You should receive a response within 24 hours. If for some reason you do not, please follow up via email to ensure we received your original message. 
 
